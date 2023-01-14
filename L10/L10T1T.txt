@@ -1,0 +1,35 @@
+Tunnistettiin 34 automerkkiä ja 440 autoa:
+Alfa Romeo: 1 auto
+Audi: 16 autoa
+BMW: 27 autoa
+Chevrolet: 7 autoa
+Chrysler: 1 auto
+Citroen: 12 autoa
+Dacia: 3 autoa
+Fiat: 2 autoa
+Ford: 31 autoa
+Honda: 7 autoa
+Hyundai: 11 autoa
+Jaguar: 1 auto
+Jeep: 3 autoa
+Kia: 19 autoa
+Land Rover: 1 auto
+Lexus: 5 autoa
+Mazda: 11 autoa
+Mercedes-Benz: 39 autoa
+Mini: 1 auto
+Mitsubishi: 6 autoa
+Nissan: 23 autoa
+Opel: 16 autoa
+Peugeot: 7 autoa
+Porsche: 2 autoa
+Renault: 14 autoa
+Saab: 1 auto
+Seat: 12 autoa
+Skoda: 29 autoa
+Subaru: 5 autoa
+Suzuki: 5 autoa
+Toyota: 36 autoa
+Volkswagen: 29 autoa
+Volkswagen, VW: 25 autoa
+Volvo: 32 autoa
